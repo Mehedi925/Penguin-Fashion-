@@ -8,3 +8,6 @@ body {
     background-color: #F1F1F1;
 
 }
+.perfect-height{
+    max-height: 500px;
+}
